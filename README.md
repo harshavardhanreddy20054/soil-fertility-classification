@@ -38,6 +38,7 @@ This project presents a machine learning-based solution for soil analysis and mi
 
 ## 📂 Project Structure
 
+```
 
 SoilFertility/
 ├── manage.py
@@ -57,7 +58,7 @@ SoilFertility/
 
 ````
 
-
+---
 
 ## ⚙️ Installation Steps
 
